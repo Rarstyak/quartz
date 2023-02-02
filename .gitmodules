@@ -1,0 +1,3 @@
+[submodule "content/submodules/Fate-Condensed-SRD"]
+	path = content/submodules/Fate-Condensed-SRD
+	url = https://github.com/Rarstyak/Fate-Condensed-SRD.git
