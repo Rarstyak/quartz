@@ -1,0 +1,20 @@
+filters:
+  and:
+    - '!file.path.contains("30X")'
+    - file.hasTag("wf/c/narrative/session")
+properties:
+  note.InGameDate:
+    displayName: CPR Date
+views:
+  - type: table
+    name: Sessions
+    filters:
+      and:
+        - file.hasLink("32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/20260208 Living on the Edge.md")
+    order:
+      - file.name
+      - date
+      - InGameDate
+      - campaignIP
+      - summary
+    sort: []

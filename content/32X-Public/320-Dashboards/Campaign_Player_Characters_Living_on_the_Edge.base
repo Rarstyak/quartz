@@ -1,0 +1,33 @@
+filters:
+  and:
+    - '!file.path.contains("30X")'
+    - file.hasTag("wf/c/character/pc")
+formulas:
+  Creator: file(note.creator)
+properties:
+  note.note.creator:
+    displayName: creator
+views:
+  - type: cards
+    name: PCs
+    filters:
+      and:
+        - file.hasLink("32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/20260208 Living on the Edge.md")
+    order:
+      - file.name
+      - formula.Creator
+      - Class
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.token
+    imageAspectRatio: 1
+    cardSize: 160
+    chronos.start: note.start
+    chronos.end: note.end
+    chronos.type: note.type
+    chronos.color: note.color
+    chronos.group: note.group
+    chronos.content: note.content
+    chronos.description: note.description
+    chronos.config-schema: 1
