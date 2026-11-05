@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rarstyak.github.io
+  baseUrl: https://rarstyak.github.io/quartz-5/
   ignorePatterns:
     - private
     - templates
