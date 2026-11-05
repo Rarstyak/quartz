@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-05T00:45:58.961Z
-modified: 2026-11-05T01:21:50.359Z
+modified: 2026-11-05T15:57:13.001Z
 tags:
   - MOC
 ---
@@ -20,4 +20,5 @@ My TTRPG notes
 
 ## Active Campaigns
 
-[[20260208 Living on the Edge|Living on the Edge]]
+Cyberpunk RED [[20260208 Living on the Edge|Living on the Edge]]
+No alias to see if that works [[20260208 Living on the Edge]]
