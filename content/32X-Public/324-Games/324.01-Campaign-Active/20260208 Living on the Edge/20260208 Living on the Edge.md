@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Living on the Edge
 created: 2026-02-01T03:00:26.914Z
-modified: 2026-11-05T05:05:03.180Z
+modified: 2026-11-05T05:11:46.244Z
 tags:
   - wf/c/narrative/campaign/active
 ---
@@ -17,7 +17,30 @@ DM:: [[StorminWarden]], [[TheSimian]], [[Emperor Chau]], [[Captain_Cockatrice|Ca
 
 ## PCs
 
+![[Campaign_Player_Characters.base]]
+
 ![[Campaign_Player_Characters_Living_on_the_Edge.base]]
+
+```base
+filters:
+	and:
+		- file.hasTag("wf/c/character/pc") 
+		- file.hasLink(this)
+		- not:
+			- file.inFolder("30X-Meta")
+properties:
+	fullname:
+		displayName: Full Name
+	class:
+		displayName: Class
+views:
+- type: cards
+  name: PCs
+  order:
+  - fullname
+  - class
+  image: token
+```
 
 > [!cards|4 dataview]+ Player Characters
 > | File                                                                                                                                | Class                        | Creator                                                                                                                                                                                                                        | Token                                | Birthday           | Age          | Height | Summary                                      |
