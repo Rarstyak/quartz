@@ -1,0 +1,56 @@
+filters:
+  and:
+    - '!file.path.contains("30X")'
+    - file.hasLink(this)
+views:
+  - type: table
+    name: All
+    sort: []
+  - type: table
+    name: Research
+    filters:
+      and:
+        - file.path.contains("332-Research")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Drafts
+    filters:
+      and:
+        - file.path.contains("333-Draft")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Publish
+    filters:
+      and:
+        - file.path.contains("334-Publish")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Review
+    filters:
+      and:
+        - file.path.contains("335-Review")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

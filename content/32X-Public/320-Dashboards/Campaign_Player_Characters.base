@@ -1,0 +1,21 @@
+filters:
+  and:
+    - '!file.path.contains("30X")'
+    - file.hasTag("wf/c/character/pc")
+    - file.hasLink(this)
+formulas:
+  Creator: file(note.creator)
+properties:
+  note.note.creator:
+    displayName: creator
+views:
+  - type: cards
+    name: PCs
+    order:
+      - file.name
+      - formula.Creator
+      - Class
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.token

@@ -1,0 +1,18 @@
+filters:
+  and:
+    - '!file.path.contains("30X")'
+    - file.hasTag("wf/c/narrative/session")
+    - file.hasLink(this)
+views:
+  - type: table
+    name: Rotating DM & PC
+    order:
+      - file.name
+      - dm
+      - pc
+    sort: []
+  - type: table
+    name: Summary
+    order:
+      - file.name
+      - summary
