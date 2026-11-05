@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Living on the Edge
 created: 2026-02-01T03:00:26.914Z
-modified: 2026-11-05T05:11:46.244Z
+modified: 2026-11-05T05:48:22.361Z
 tags:
   - wf/c/narrative/campaign/active
 ---
@@ -17,47 +17,22 @@ DM:: [[StorminWarden]], [[TheSimian]], [[Emperor Chau]], [[Captain_Cockatrice|Ca
 
 ## PCs
 
-![[Campaign_Player_Characters.base]]
-
-![[Campaign_Player_Characters_Living_on_the_Edge.base]]
-
-```base
-filters:
-	and:
-		- file.hasTag("wf/c/character/pc") 
-		- file.hasLink(this)
-		- not:
-			- file.inFolder("30X-Meta")
-properties:
-	fullname:
-		displayName: Full Name
-	class:
-		displayName: Class
-views:
-- type: cards
-  name: PCs
-  order:
-  - fullname
-  - class
-  image: token
-```
-
 > [!cards|4 dataview]+ Player Characters
-> | File                                                                                                                                | Class                        | Creator                                                                                                                                                                                                                        | Token                                | Birthday           | Age          | Height | Summary                                      |
-> | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ------------------ | ------------ | ------ | -------------------------------------------- |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Alyna Checkmate Signal.md|Alyna Checkmate Signal]]       | Tech 4, Medtech 4            | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/Luna_Sonata.md\|Luna_Sonata]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/Luna_Sonata.md\|Luna_Sonata]]</li></ul>                                          | ![](https://i.imgur.com/AYMJm2G.png) | August 13, 2015    | 29 years old | 160 cm | Catgirl Tech                                 |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Bellatrix Blue Star Bayer.md|Bellatrix Blue Star Bayer]] | Rockerboy 6, Solo 4          | <ul><li>[[33X-001-Emperor-Chau/330-Dashboards/Emperor Chau.md\|Emperor Chau]]</li><li>[[33X-001-Emperor-Chau/330-Dashboards/Emperor Chau.md\|Emperor Chau]]</li></ul>                                                        | ![](https://i.imgur.com/pcgYGyt.png) | January 19, 2019   | 26 years old | 162 cm | Leader of the [[Vavalo Vixens]], Mutt Aumaga |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Carlos Vaqueros.md|Carlos Vaqueros]]                     | Nomad 6, Medtech 1           | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/StorminWarden.md\|StorminWarden]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/StorminWarden.md\|StorminWarden]]</li></ul>                                  | ![](https://i.imgur.com/ze82DK4.png) | September 08, 2014 | 30 years old | 149 cm | Mr Speedster                                 |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Crystal Davis.md|Crystal Davis]]                         | Solo 6                       | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/432891070167253013_Crab_2_7.md\|Crab]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/432891070167253013_Crab_2_7.md\|432891070167253013_Crab_2_7]]</li></ul> | ![](https://i.imgur.com/No6b3pj.png) | July 17, 2017      | 27 years old | 161 cm | Youngest Triplet                             |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Elys Davis.md|Elys Davis]]                               | Medtech 5, Solo 2            | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/MushPizza.md\|MushPizza]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/MushPizza.md\|MushPizza]]</li></ul>                                                  | ![](https://i.imgur.com/xTjyrqa.png) | July 17, 2017      | 27 years old | 161 cm | Middle Triplet                               |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/John Ryebuck.md|John Ryebuck]]                           | Rockerboy 4                  | <ul><li>[[Gotato\|Gotato]]</li><li>[[Gotato\|Gotato]]</li></ul>                                                                                                                                                              | ![](https://i.imgur.com/cyLcL7K.png) | -                 | - years old | -     | Bastard Rockerboy                            |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Lacey Davis.md|Lacey Davis]]                             | Fixer 5, Rockerboy 5         | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/Captain_Cockatrice.md\|Captain_Cockatrice]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/Captain_Cockatrice.md\|Captain_Cockatrice]]</li></ul>              | ![](https://i.imgur.com/zmPJamn.png) | July 17, 2017      | 27 years old | 161 cm | Eldest Triplet                               |
-> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Viktor Breaker Petrov.md|Viktor Breaker Petrov]]         | Solo 4, Nomad 4, Rockerboy 1 | <ul><li>[[32X-Public/324-Games/324.22-Creator-Inactive/TheSimian.md\|TheSimian]]</li><li>[[32X-Public/324-Games/324.22-Creator-Inactive/TheSimian.md\|TheSimian]]</li></ul>                                                  | ![](https://i.imgur.com/XNL5m6u.png) | May 20, 2003       | 41 years old | 194 cm | Ex-Militech                                  |
+> | PC                                                                                                                        | Class                        | Creator                                                                                    | Token                                | Birthday           | Age          | Height | Summary                                      |
+> | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | ------------------ | ------------ | ------ | -------------------------------------------- |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Alyna Checkmate Signal.md|Alyna]]              | Tech 4, Medtech 4            | [[32X-Public/324-Games/324.22-Creator-Inactive/Luna_Sonata.md|Luna_Sonata]]               | ![](https://i.imgur.com/AYMJm2G.png) | August 13, 2015    | 29 years old | 160 cm | Catgirl Tech                                 |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Bellatrix Blue Star Bayer.md|Bellatrix Bayer]] | Rockerboy 6, Solo 4          | [[33X-001-Emperor-Chau/330-Dashboards/Emperor Chau.md|Emperor Chau]]                      | ![](https://i.imgur.com/pcgYGyt.png) | January 19, 2019   | 26 years old | 162 cm | Leader of the [[Vavalo Vixens]], Mutt Aumaga |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Carlos Vaqueros.md|Carlos Vaqueros]]           | Nomad 6, Medtech 1           | [[32X-Public/324-Games/324.22-Creator-Inactive/StorminWarden.md|StorminWarden]]           | ![](https://i.imgur.com/ze82DK4.png) | September 08, 2014 | 30 years old | 149 cm | Mr Speedster                                 |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Crystal Davis.md|Crystal Davis]]               | Solo 6                       | [[32X-Public/324-Games/324.22-Creator-Inactive/432891070167253013_Crab_2_7.md|Crab]]      | ![](https://i.imgur.com/No6b3pj.png) | July 17, 2017      | 27 years old | 161 cm | Youngest Triplet                             |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Elys Davis.md|Elys Davis]]                     | Medtech 5, Solo 2            | [[32X-Public/324-Games/324.22-Creator-Inactive/MushPizza.md|MushPizza]]                   | ![](https://i.imgur.com/xTjyrqa.png) | July 17, 2017      | 27 years old | 161 cm | Middle Triplet                               |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/John Ryebuck.md|John Ryebuck]]                 | Rockerboy 4                  | [[Gotato|Gotato]]                                                                         | ![](https://i.imgur.com/cyLcL7K.png) | -                 | - years old | -     | Bastard Rockerboy                            |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Lacey Davis.md|Lacey Davis]]                   | Fixer 5, Rockerboy 5         | [[32X-Public/324-Games/324.22-Creator-Inactive/Captain_Cockatrice.md|Captain_Cockatrice]] | ![](https://i.imgur.com/zmPJamn.png) | July 17, 2017      | 27 years old | 161 cm | Eldest Triplet                               |
+> | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/Viktor Breaker Petrov.md|Viktor Petrov]]       | Solo 4, Nomad 4, Rockerboy 1 | [[32X-Public/324-Games/324.22-Creator-Inactive/TheSimian.md|TheSimian]]                   | ![](https://i.imgur.com/XNL5m6u.png) | May 20, 2003       | 41 years old | 194 cm | Ex-Militech                                  |
 
 ## Sessions
 
 > [!info]+ Sessions
-> | File                                                                                                                                                                                | CPR Date          | Campaign IP | Summary                                                                                                                  |
+> | Session                                                                                                                                                                             | CPR Date          | Campaign IP | Summary                                                                                                                  |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
 > | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/20260208 Session Zero 1.md|20260208 Session Zero 1]]                                                     | January 01, 2045  | 0           | Discussed [[Sons of Taniwha]]                                                                                            |
 > | [[32X-Public/324-Games/324.01-Campaign-Active/20260208 Living on the Edge/20260215 Ep 1 The Exchange.md|20260215 Ep 1 The Exchange]]                                               | January 08, 2045  | 0           | A side gig goes bad, and we trade 2 dirty cops for [[Fixer Lazlo]]                                                       |

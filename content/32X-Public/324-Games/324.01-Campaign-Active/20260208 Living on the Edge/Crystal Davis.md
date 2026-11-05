@@ -3,10 +3,10 @@ publish: true
 aliases:
   - Crystal Davis
 created: 2026-02-09T04:33:48.246Z
-modified: 2026-11-05T05:10:29.525Z
+modified: 2026-11-05T05:46:13.091Z
 ---
 
-creator:: [[432891070167253013_Crab_2_7]]
+creator:: [[432891070167253013_Crab_2_7|Crab]]
 campaign:: [[20260208 Living on the Edge]]
 location:: 4046 [[Moku Kea]]
 summary:: Youngest Triplet

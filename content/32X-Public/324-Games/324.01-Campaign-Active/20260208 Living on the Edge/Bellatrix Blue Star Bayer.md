@@ -6,7 +6,7 @@ aliases:
   - Bellatrix
   - Bellatrix Bayer
 created: 2026-02-09T04:33:48.306Z
-modified: 2026-11-05T05:10:18.963Z
+modified: 2026-11-05T05:47:07.264Z
 ---
 
 creator:: [[Emperor Chau]]
