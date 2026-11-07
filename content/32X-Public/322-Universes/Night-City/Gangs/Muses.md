@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Muses
 created: 2026-04-18T01:25:00.079Z
-modified: 2026-11-07T15:31:41.574Z
+modified: 2026-11-07T15:48:18.381Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

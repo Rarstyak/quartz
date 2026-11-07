@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Steel Vaqueros
 created: 2026-02-09T22:51:12.954Z
-modified: 2026-11-07T15:31:16.900Z
+modified: 2026-11-07T15:47:38.025Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

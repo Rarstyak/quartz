@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Dirty Hippies
 created: 2026-04-18T01:28:49.569Z
-modified: 2026-11-07T15:32:15.525Z
+modified: 2026-11-07T15:48:55.760Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

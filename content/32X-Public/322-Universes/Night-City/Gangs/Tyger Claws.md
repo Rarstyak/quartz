@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Tyger Claws
 created: 2026-02-09T22:51:29.942Z
-modified: 2026-11-07T15:31:09.452Z
+modified: 2026-11-07T15:47:12.505Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

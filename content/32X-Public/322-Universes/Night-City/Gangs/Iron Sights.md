@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Iron Sights
 created: 2026-02-09T22:48:27.199Z
-modified: 2026-11-07T15:31:55.590Z
+modified: 2026-11-07T15:48:29.126Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

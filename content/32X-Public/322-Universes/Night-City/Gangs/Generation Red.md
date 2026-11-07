@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Generation Red
 created: 2026-03-10T04:26:04.127Z
-modified: 2026-11-07T15:32:02.813Z
+modified: 2026-11-07T15:48:34.046Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

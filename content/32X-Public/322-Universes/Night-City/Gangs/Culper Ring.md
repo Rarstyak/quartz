@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Culper Ring
 created: 2026-04-18T01:29:12.923Z
-modified: 2026-11-07T15:32:19.065Z
+modified: 2026-11-07T15:49:03.967Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Princesses of Justice
 created: 2026-04-18T01:24:27.872Z
-modified: 2026-11-07T15:31:33.613Z
+modified: 2026-11-07T15:48:08.197Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

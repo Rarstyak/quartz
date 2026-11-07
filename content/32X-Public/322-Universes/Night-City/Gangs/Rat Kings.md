@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Rat Kings
 created: 2026-04-18T01:24:15.276Z
-modified: 2026-11-07T15:31:31.437Z
+modified: 2026-11-07T15:48:05.455Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Mudang Gumi
 created: 2026-04-18T01:25:09.670Z
-modified: 2026-11-07T15:31:42.902Z
+modified: 2026-11-07T15:48:19.749Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

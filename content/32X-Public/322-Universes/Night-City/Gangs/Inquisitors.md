@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Inquisitors
 created: 2026-02-09T22:47:02.588Z
-modified: 2026-11-07T15:31:56.806Z
+modified: 2026-11-07T15:48:30.546Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

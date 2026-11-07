@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Lightning Cats
 created: 2026-04-18T01:25:34.672Z
-modified: 2026-11-07T15:31:46.224Z
+modified: 2026-11-07T15:48:22.912Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

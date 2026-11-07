@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Philharmonic Vampyres
 created: 2026-02-09T22:49:37.041Z
-modified: 2026-11-07T15:31:19.877Z
+modified: 2026-11-07T15:48:16.685Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

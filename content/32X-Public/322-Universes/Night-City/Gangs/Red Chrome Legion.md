@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Red Chrome Legion
 created: 2026-02-09T22:50:41.455Z
-modified: 2026-11-07T15:31:27.381Z
+modified: 2026-11-07T15:48:01.427Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

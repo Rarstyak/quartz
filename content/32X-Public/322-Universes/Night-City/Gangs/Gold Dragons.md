@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Gold Dragons
 created: 2026-04-18T01:26:36.962Z
-modified: 2026-11-07T15:31:04.917Z
+modified: 2026-11-07T15:48:32.741Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

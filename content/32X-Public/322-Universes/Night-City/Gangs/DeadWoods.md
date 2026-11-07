@@ -3,7 +3,7 @@ publish: true
 aliases:
   - DeadWoods
 created: 2026-04-18T01:28:58.901Z
-modified: 2026-11-07T15:32:17.749Z
+modified: 2026-11-07T15:48:59.483Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

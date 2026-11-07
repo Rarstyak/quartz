@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Wild Things
 created: 2026-04-18T01:18:55.900Z
-modified: 2026-11-07T15:30:49.690Z
+modified: 2026-11-07T15:46:56.537Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

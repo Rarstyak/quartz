@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Yellow Brick Road Gang
 created: 2026-04-18T01:18:08.714Z
-modified: 2026-11-07T15:30:46.765Z
+modified: 2026-11-07T15:46:52.368Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity

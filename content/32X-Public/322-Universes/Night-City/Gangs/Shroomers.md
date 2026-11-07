@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Shroomers
 created: 2026-04-18T01:21:55.283Z
-modified: 2026-11-07T15:31:24.981Z
+modified: 2026-11-07T15:47:49.569Z
 tags:
   - wf/c/organization/gang
   - wf/u/NightCity
