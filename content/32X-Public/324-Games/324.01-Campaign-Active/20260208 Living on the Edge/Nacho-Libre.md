@@ -4,12 +4,12 @@ aliases:
   - Nacho-Libre
   - Afi Sa'oloto
 created: 2026-08-31T03:02:36.669Z
-modified: 2026-11-05T15:45:49.723Z
+modified: 2026-11-05T20:41:47.555Z
 ---
 
 campaign:: [[20260208 Living on the Edge]]
 location:: 4046 [[Moku Kea]]
-summary:: I'a Sanuisi Tuto'Atasi, or Nacho Libre: the Fish Taco Liberator
+summary:: Afi Sa'oloto, or Nacho Libre: the Fish Taco Liberator
 
 # Nacho-Libre
 
@@ -18,7 +18,7 @@ summary:: I'a Sanuisi Tuto'Atasi, or Nacho Libre: the Fish Taco Liberator
 Eats 2xFresh Food every month, and takes 2 bed slots.
 Black Bears in California hibernate between November and January
 
-Ignis (fire in Latin) - St. Ignatius - Ignacio
+Ignis (fire in Latin) - St. Ignatius - Ignacio - Nacho
 Afi is the Samoan word for fire
 Libre is just "Free" - Samoan for free in this context would be "Sa'oloto"
 

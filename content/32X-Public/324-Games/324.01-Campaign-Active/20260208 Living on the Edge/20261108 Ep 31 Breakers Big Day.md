@@ -3,7 +3,7 @@ publish: true
 aliases:
   - 20261108 Ep 31 Breakers Big Day
 created: 2026-11-08
-modified: 2026-11-05T15:37:25.214Z
+modified: 2026-11-07T01:34:20.114Z
 tags:
   - wf/c/narrative/session
 ---
@@ -36,6 +36,7 @@ Ring Bearer: [[Nacho-Libre]]
 
 TOPIC: Carlos' brother cyberpsychosis, Carlos installed Grip Feet
 TOPIC: Carlos adopted 2 Sapient Beings without consulting Cassandra, Pez the Capybara and Cotija the Spotted Cow
+
 TOPIC: TSpooks has been looking into the Night City Nightmares
 TOPIC: The whole gang set up Breaker's wedding, and somehow never talked to him about it
 TOPIC: Kieran Keen MacLennan wanted to be a full body exotic, but couldn't afford or find anyone better than Sparkle Skull, so paid in photos of TSpooks

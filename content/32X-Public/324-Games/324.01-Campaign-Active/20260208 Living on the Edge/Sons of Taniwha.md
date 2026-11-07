@@ -3,18 +3,17 @@ publish: true
 aliases:
   - Sons of Taniwha
 created: 2026-02-06T00:10:40.790Z
-modified: 2026-11-05T15:48:07.752Z
+modified: 2026-11-07T15:31:01.341Z
 tags:
   - wf/c/organization/gang
   - wf/u/LivingOnTheEdge
 ---
 
 campaign:: [[20260208 Living on the Edge]]
-location:: [[Upper Marina]]
 
 Leader:: [[Etano Affa]]
-ActivitiesThemes::
-Hangouts::
+ActivitiesThemes:: Extortion, smuggling, security
+Hangouts:: [[Moku Kea]], [[Upper Marina]], [[Little China]], [[Old Japantown]]
 Identifiers::
 summary:: Led by [[Etano Affa]], run transport security. Founded 2025.
 
