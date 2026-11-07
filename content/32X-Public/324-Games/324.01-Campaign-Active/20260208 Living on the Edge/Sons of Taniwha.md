@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Sons of Taniwha
 created: 2026-02-06T00:10:40.790Z
-modified: 2026-11-07T15:31:01.341Z
+modified: 2026-11-07T15:55:41.020Z
 tags:
   - wf/c/organization/gang
   - wf/u/LivingOnTheEdge
@@ -31,47 +31,51 @@ Ocean Colors: Light blues/greens
 
 ### Allies
 
-[[Gold Dragons]] & [[Weng Fang Tong]]; Exchange combat support (Taniwha) for Political support (David Ling Po)
+- [[Gold Dragons]] & [[Weng Fang Tong]]; Exchange combat support (Taniwha) for Political support (David Ling Po); Allied against [[Red Chrome Legion]]
+- [[Tyger Claws]]/Little Japan; Allied against [[Red Chrome Legion]]
 
 ### Friendly
 
-[[Prime-Time Players]]\(Baywatch Hawaii); Staff
-[[Prime-Time Players]]\(Gilligan's Island); Staff
-[[Prime-Time Players]]\(South Pacific); Staff
-[[Steel Vaqueros]]; Free passage; do not interfere
+- [[Prime-Time Players]]\(Baywatch Hawaii); Staff
+- [[Prime-Time Players]]\(Gilligan's Island); Staff
+- [[Prime-Time Players]]\(South Pacific); Staff
+- [[Steel Vaqueros]]; Free passage; do not interfere
 
 ### Neutral
 
-[[6th Street]]; Do not interfere
-[[Philharmonic Vampyres]]; Do not interfere
-[[Scavvers]]; Do not interfere
+- [[6th Street]]; Do not interfere
 
-[[Piranhas]]; Unwelcome in territory; otherwise do not interfere
-[[Reckoners]]; Unwelcome in territory; otherwise do not interfere
-[[Maelstrom]]; Unwelcome in territory; otherwise do not interfere
-[[Voodoo Boys]]; Unwelcome in territory; otherwise do not interfere
+- [[Philharmonic Vampyres]]; Do not interfere
+
+- [[Scavvers]]; Do not interfere
+
+- [[Piranhas]]; Unwelcome in territory; otherwise do not interfere
+
+- [[Reckoners]]; Unwelcome in territory; otherwise do not interfere
+
+- [[Maelstrom]]; Unwelcome in territory; otherwise do not interfere
+
+- [[Voodoo Boys]]; Unwelcome in territory; otherwise do not interfere
 
 ### Rival
 
-[[Tyger Claws]]/Little Japan; Competing for territory in Little China
-
 ### War
 
-[[Bozos]]; Kill On Sight
-[[Iron Sights]]; Kill On Sight
-[[Red Chrome Legion]]; Kill On Sight
-[[Inquisitors]]; Kill On Sight
+- [[Bozos]]; Kill On Sight
+- [[Iron Sights]]; Kill On Sight
+- [[Red Chrome Legion]]; Kill On Sight
+- [[Inquisitors]]; Kill On Sight
 
 ## Taboos
 
 [[Tapu]]
 
-No human trafficking, will be executed (will do human smuggling)
-No deals with Red Chrome Legion, will be exile/executed
-No selling drugs to children, exile
-No civilian murder, exile
-Close to Cyberpsychosis, get uninstalled and demoted to grunt work with family supervision
-No side gigs with rivals, will have escalating punishment (maritime smuggling)
+- No human trafficking, will be executed (will do human smuggling)
+- No deals with Red Chrome Legion, will be exile/executed
+- No selling drugs to children, exile
+- No civilian murder, exile
+- Close to Cyberpsychosis, get uninstalled and demoted to grunt work with family supervision
+- No side gigs with rivals, will have escalating punishment (maritime smuggling)
 
 ## Costs
 
@@ -142,8 +146,6 @@ Assault Rifle instead of SMG
 
 Lord Affa wants to replace City Manager Kabria Chung
 Lord Affa has a deal with Little China's City Manager David Ling Po to exchange combat support for political support
-
-We want to have a session around the Lightning Cats
 
 ## Younger Factions
 
